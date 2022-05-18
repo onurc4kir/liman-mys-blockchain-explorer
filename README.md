@@ -3,7 +3,7 @@ Liman merkezi yönetim sistemi için geliştirilmiş Blockchain teknolojileriyle
 
 
 #Son gelişmeler hakkında bilgi veren tab
-![](https://raw.githubusercontent.com/onurc4kir/liman-mys-blockchain-explorer/main/trend-analizi-tab.png)
+![](https://raw.githubusercontent.com/onurc4kir/liman-mys-blockchain-explorer/main/latest-news-tab.png)
 
 
 #Trendin hangi yönde olduğu hakkında bilgi veren tab
