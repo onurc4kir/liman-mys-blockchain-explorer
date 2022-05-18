@@ -1,0 +1,32 @@
+{
+    "name": "lk",
+    "publisher": "Administrator",
+    "version": "0.0.1",
+    "version_code": 14,
+    "database": [],
+    "widgets": [
+        {
+            "target": "btc_price_widget",
+            "type": "count_box",
+            "name": "BTC Fiyat\u0131",
+            "icon": "icon"
+        },
+        {
+            "target": "try_price_widget",
+            "type": "count_box",
+            "name": "USDTRY",
+            "icon": "fas fa-dollar-sign"
+        }
+    ],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "1.9",
+    "support": "administrator@liman.dev",
+    "icon": "fa-solid fa-circle",
+    "display_name": "Blockchain Gezgini",
+    "require_key": "false",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null
+}
